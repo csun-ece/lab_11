@@ -6,8 +6,7 @@
 -----
 Ethernet provides another way other than UART to send data back and forth between PS and PL.
 For part1 we are created a light weight internet protocol.
-
-![Firmware](Firmware.png)
+![Screenshot from 2022-05-16 21-31-23](https://user-images.githubusercontent.com/98668416/168749034-b6be1ab1-0ec0-4926-90b7-faed90de002d.png)
 
 THis is our enire design for the firmware. We ran aut conaction which creatd the DDR and FIXED input output ports. We also enbaled UART1 and ETHN
 
